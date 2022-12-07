@@ -9,6 +9,6 @@
 
 
 
-<a href=""> `◁ Previous Page` </a> <a href=""> `Home` </a> <a href=""> `Next Page ▷` </a>
+<a href="https://github.com/ikx7a/Waifu"> `◁ Previous Page` </a> <a href=""> `Home` </a> <a href="https://github.com/ikx7a/Waifu/tree/main/Chizuru%20Mizuhara"> `Next Page ▷` </a>
 
 </div>
