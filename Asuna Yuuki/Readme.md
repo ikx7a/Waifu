@@ -1,15 +1,14 @@
 <div align="center">
 
- <img src="">
+ [![@ikx7a](https://github.com/ikx7a/Waifu/blob/main/Resources/Asuna%20Yuuki.jpg)](https://github.com/ikx7a/)
 
 
 
-  <a href=""></a>
+  <a href="https://g.co/kgs/VvXLSt"> `Asuna Yuuki - Sword Art Online` </a>
 
 
 
-  <h6>
-<a href=""> `◁ Previous Page` </a><a href=""> `Home` </a><a href=""> `Next Page ▷` </a>
 
-  </h6>
+<a href=""> `◁ Previous Page` </a> <a href=""> `Home` </a> <a href=""> `Next Page ▷` </a>
+
 </div>
