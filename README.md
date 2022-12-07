@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
     ─「 Waifu 」─
-</h3>
+</h2>
 
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Asuna%20Yuuki">Asuna Yuuki</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Chizuru%20Mizuhara">Chizuru Mizuhara</a>
