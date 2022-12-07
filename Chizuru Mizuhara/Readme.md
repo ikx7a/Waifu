@@ -5,8 +5,7 @@
  [![@ikx7a](https://github.com/ikx7a/Waifu/blob/main/Resources/Chizuru%20Mizuhara.jpg)](https://github.com/ikx7a)
 
 
-  <a href="https://kanojo-okarishimasu.fandom.com/wiki/Chizuru_Ichinose"> `Chizuru Mizuhara` </a> `-` <a href="https://kanojo-okarishimasu.fandom.com/wiki/Kanojo,_Okarishimasu_(Manga)"> `Rent a Girlfriend` </a>
-
+  <a href="https://anilist.co/character/128106/Chizuru-Ichinose"> `Chizuru Mizuhara` </a>
 
 
 
