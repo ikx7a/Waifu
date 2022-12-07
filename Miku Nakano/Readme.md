@@ -10,6 +10,6 @@
 
 
 
-<a href="https://github.com/ikx7a/Waifu/tree/main/Makima"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href=""> `▷` </a>
+<a href="https://github.com/ikx7a/Waifu/tree/main/Makima"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Shikimori%20San"> `▷` </a>
 
 </div>
