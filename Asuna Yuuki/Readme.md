@@ -3,9 +3,7 @@
  [![@ikx7a](https://github.com/ikx7a/Waifu/blob/main/Resources/Asuna%20Yuuki.jpg)](https://github.com/ikx7a)
 
 
-
-  <a href="https://g.co/kgs/VvXLSt"> `Asuna Yuuki - Sword Art Online` </a>
-
+ <a href="https://swordartonline.fandom.com/wiki/Yuuki_Asuna"> `Asuna Yuuki` </a> `-` <a href="https://swordartonline.fandom.com/wiki/Sword_Art_Online_Wiki"> `Sword Art Online` </a>
 
 
 
