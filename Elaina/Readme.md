@@ -10,6 +10,6 @@
 
 
 
-<a href="https://github.com/ikx7a/Waifu/tree/main/Elaina"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Kaguya%20Shinomiya"> `▷` </a>
+<a href="https://github.com/ikx7a/Waifu/tree/main/Chizuru%20Mizuhara"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Kaguya%20Shinomiya"> `▷` </a>
 
 </div>
