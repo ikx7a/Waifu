@@ -9,6 +9,6 @@
 
 
 
-<a href="https://github.com/ikx7a/Waifu"> `◁` </a> <a href="https://github.com/ikx7a/Waifu"> `♡` </a> <a href="https://github.com/ikx7a/Waifu/tree/main/Chizuru%20Mizuhara"> `▷` </a>
+<a href="https://github.com/ikx7a/Waifu"> `◁` </a> ㅤ <a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Chizuru%20Mizuhara"> `▷` </a>
 
 </div>
