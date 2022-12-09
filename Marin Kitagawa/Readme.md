@@ -5,7 +5,7 @@
  [![@ikx7a](https://github.com/ikx7a/Waifu/blob/main/Resources/Marin%20Kitagawa.png)](https://github.com/ikx7a)
 
 
-  <a href="https://anilist.co/character/137080/Makima"> `Marin Kitagawa` </a>
+  <a href="https://anilist.co/character/133676/Marin-Kitagawa"> `Marin Kitagawa` </a>
 
 
 
