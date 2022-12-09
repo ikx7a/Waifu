@@ -9,7 +9,7 @@
 
 
 
-<a href="https://github.com/ikx7a/Waifu/tree/main/Mai%20Sakurajima"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Miku%20Nakano"> `▷` </a>
+<a href="https://github.com/ikx7a/Waifu/tree/main/Mai%20Sakurajima"> `◁` </a>ㅤ<a href="https://github.com/ikx7a/Waifu"> `♡` </a>ㅤ<a href="https://github.com/ikx7a/Waifu/tree/main/Marin%20Kitagawa"> `▷` </a>
 
 </div>
 
