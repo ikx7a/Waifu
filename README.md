@@ -10,7 +10,7 @@
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Kurumi%20Tokisaki">Kurumi Tokisaki</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Mai%20Sakurajima">Mai Sakurajima</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Makima">Makima</a>
- - <a href="">Marin Kitagawa</a>
+ - <a href="https://github.com/ikx7a/Waifu/tree/main/Marin%20Kitagawa">Marin Kitagawa</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Miku%20Nakano">Miku Nakano</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Shikimori%20San">Shikimori San</a>
  - <a href="https://github.com/ikx7a/Waifu/tree/main/Shinobu%20Kocho">Shinobu Kocho</a>
